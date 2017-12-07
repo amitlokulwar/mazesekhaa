@@ -1,2 +1,11 @@
+Site Link:http://10.0.28.99/mazesekhaa/
+
+Admin Link:Site Link:http://10.0.28.99/mazesekhaa/wp-admin
+
 admin
 mpGrBb2DL@ZVzh(cy(
+
+
+
+phpmyadmin:
+http://10.0.28.99/phpmyadmin
